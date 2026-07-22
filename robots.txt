@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Frostrain5015.github.io/snippets-au0zbb/sitemap.xml
